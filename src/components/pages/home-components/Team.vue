@@ -17,7 +17,7 @@
                 <div class="col-lg-4 col-md-4 wow fadeInLeft" data-wow-delay="1.4s">
                     <img src="../../../../src/images/team/team-member-2.jpg" alt="" class="img-circle">
                     <h4 class="wow fadeInUp">Charles Okoyoh</h4>
-                    <b>Developer & CTO</b>
+                    <b>Developer</b>
                     <p class="wow fadeInUp" data-wow-delay="0.4s">
                        Charles is the CTO of Gora, Inc. He's in charge of the Software Division.
                     </p>
