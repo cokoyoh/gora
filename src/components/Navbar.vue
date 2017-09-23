@@ -6,13 +6,13 @@
                     <router-link class="nav-link" to="/">Home<span class="sr-only">(current)</span></router-link>
                  </li>
                 <li class="nav-item">
-                    <a class="nav-link" href="#about" v-if="atHome">About</a>
+                    <a class="nav-link" href="#about" v-if="this.$route.path === '/'">About</a>
                 </li>
                 <li class="nav-item">
                     <router-link class="nav-link" to="/services">Services</router-link>
                 </li>
                 <li class="nav-item">
-                    <a class="nav-link" href="#team" v-if="atHome">Team</a>
+                    <a class="nav-link" href="#team" v-if="this.$route.path === '/'">Team</a>
                 </li>
                 <li class="nav-item">
                     <router-link class="nav-link" to="/contact-us">Contact Us</router-link>
@@ -42,6 +42,9 @@
                 this.$store.dispatch('clearAuthUser')
                 window.localStorage.removeItem('auth_user')
                 this.$router.push('login')
+            },
+            Test(){
+                console.log(this.$route.path)
             }
         }
     }
