@@ -1,7 +1,7 @@
 <template>
     <div class="services-home" id="services-home">
+        <services-top></services-top>
         <div class="container">
-            <h2>Our Services Include</h2>
             <div class="row">
                 <div class="col-md-8 col-lg-8">
                     <h4>Web Design & Development</h4>
@@ -159,20 +159,17 @@
 </template>
 
 <script>
+    import ServicesTop from './ServicesTop.vue'
     export default {
-        data() {
-            return {
-
-            }
-        },
         components: {
+            'services-top': ServicesTop,
         }
     }
 </script>
 
 <style lang="sass">
     .services-home
-        padding: 20px 0 60px
+        padding: 0 0 60px
         text-align: left
 
         img
