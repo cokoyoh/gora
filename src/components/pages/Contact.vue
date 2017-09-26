@@ -59,26 +59,26 @@
         padding: 0 0 60px
         /*height: 400px*/
 
-        .contact-us p
-            padding-bottom: 80px
-            color: #737373
-            font-family: 'Lato', sans-serif
-        .contact-us h2
-            color: #4c4c4c
-            margin: 20px 0 20px
-            font-family: 'Noto Sans', sans-serif
+    .contact-us p
+         padding-bottom: 80px
+         color: #737373
+         font-family: 'Lato', sans-serif
+    .contact-us h2
+         color: #4c4c4c
+         margin: 20px 0 20px
+         font-family: 'Noto Sans', sans-serif
 
-        .contact-us .input-group
-            margin-bottom: 25px
-        .contact-us .form-control
-            border-radius: 0 !important
-        span
-            border-radius: 0 !important
+    .contact-us .input-group
+       margin-bottom: 25px
+    .contact-us .form-control
+        border-radius: 0 !important
+    span
+       border-radius: 0 !important
 
-        .contact-us .btn
-            border-radius: 0 !important
-            width: 100%
-            font-size: 15px
+    .contact-us .btn
+        border-radius: 0 !important
+        width: 100%
+        font-size: 15px
             /*background-color: #f08080*/
-            color: #fff
+        color: #fff
 </style>
