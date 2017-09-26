@@ -4,7 +4,7 @@
             <h2>Meet Our Team</h2>
             <div class="row">
                 <div class="col-lg-4 col-md-4 wow fadeInLeft" data-wow-delay="1.8s">
-                    <img src="../../../../src/images/team/team-member-1.jpg" alt="" class="img-circle">
+                    <img src="../../../../src/images/team/default_avatar.png" alt="" class="img-circle">
                     <h4 class="wow fadeInUp">Roussoss Demisse</h4>
                     <b>Co-Founder & CEO</b>
                     <p class="wow fadeInUp" data-wow-delay="0.4s">
@@ -15,7 +15,7 @@
                     <a href="https://www.linkedin.com/in/charles-okoyoh-82473982/"><i class="fa fa-linkedin" aria-hidden="true"></i></a>
                 </div>
                 <div class="col-lg-4 col-md-4 wow fadeInLeft" data-wow-delay="1.4s">
-                    <img src="../../../../src/images/team/team-member-2.jpg" alt="" class="img-circle">
+                    <img src="../../../../src/images/team/default_avatar.png" alt="" class="img-circle">
                     <h4 class="wow fadeInUp">Charles Okoyoh</h4>
                     <b>Developer & CTO</b>
                     <p class="wow fadeInUp" data-wow-delay="0.4s">
@@ -26,7 +26,7 @@
                     <a href="https://www.linkedin.com/in/charles-okoyoh-82473982/" target="_blank"><i class="fa fa-linkedin" aria-hidden="true"></i></a>
                 </div>
                 <div class="col-lg-4 col-md-4 wow fadeInLeft" data-wow-delay="0.8s">
-                    <img src="../../../../src/images/team/team-member-1.jpg" alt="" class="img-circle">
+                    <img src="../../../../src/images/team/default_avatar.png" alt="" class="img-circle">
                     <h4 class="wow fadeInUp">Mark Steve</h4>
                     <b>Marketing</b>
                     <p class="wow fadeInUp" data-wow-delay="0.4s">
